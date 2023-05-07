@@ -1,8 +1,10 @@
+[![alt Course Link][CourseWebsiteIMG]][course_website_link]
+[![alt Syllabus Link][SyllabusIMG]][course_syllabus_link]
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/vcalderon2009/ML-System-Design-Course/code-linting.yml)
 
 # ML System Design
 
-This repository covers the tasks from the [ML System Design](https://maven.com/boring-bot/ml-system-design/1/home)" course.
+This repository covers the tasks from the "[ML System Design](https://maven.com/boring-bot/ml-system-design/1/home)" course.
 
 ## Table of Contents
 
@@ -163,3 +165,14 @@ make clean
 
 This will call different functions from the Makefile and remove these
 artifacts from the repository.
+
+
+<!-- Links -->
+
+[course_syllabus_link]: https://night-rhodium-552.notion.site/MAVEN-Machine-Learning-System-Design-with-Large-Language-Models-2da50f163ccd4eb0879f41e357478f01
+
+[SyllabusIMG]: https://img.shields.io/badge/Course-Syllabus-orange (syllabusimg)
+
+[course_website_link]: https://maven.com/boring-bot/ml-system-design
+
+[CourseWebsiteIMG]: https://img.shields.io/badge/Course-Website-blue (courseimg)

@@ -19,6 +19,16 @@ course.
 
 ## Module 0 - Introduction to Natural Language Processing
 
+This module will cover the following:
+
+1. Introduction to NLP : Covers what NLP is, its history, applications, and challenges.
+2. NLP Techniques : Covers common techniques such as tokenization,
+    part-of-speech tagging, sentiment analysis with examples, etc.
+3. NLP Tools : Introduces popular NLP tools such as `NLTK`, `spaCy` with
+    examples of how to use them for basic NLP tasks.
+
+Documents:
+- [Notes](Module_0/Notes/01-module-0-intro-to-nlp-notes.md)
 
 ## Module 1 - Foundational Knowledge of Transformers & ML System Design
 

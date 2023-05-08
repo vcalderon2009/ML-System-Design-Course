@@ -1,2 +1,5 @@
+kaggle
+nltk
 numpy
 pandas
+spacy

@@ -1,5 +1,9 @@
+contextualSpellCheck
 kaggle
+matplotlib
 nltk
 numpy
 pandas
+scikit-learn
+seaborn
 spacy
